@@ -56,7 +56,7 @@ This project is created **only for educational purposes**. Unauthorized use of p
 ## 👩‍💻 Author
 
 **Monica R**  
-📫 Email: your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+📫 Email: monilaks2058@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/monica-r-52645029a/)
 
 
