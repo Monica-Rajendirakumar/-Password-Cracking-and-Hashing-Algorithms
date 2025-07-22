@@ -22,14 +22,6 @@ This project explores core cybersecurity concepts like password hashing, salting
 
 ---
 
-## 📁 Project Structure
-PasswordCracking-Project/
-├── hash_demo.py
-├── salted_hash_demo.py
-├── hash_compare.py
-├── brute_force.py
-├── wordlist.txt
-└── README.md
 
 
 Each file is modular and focused on a specific concept in password security.
